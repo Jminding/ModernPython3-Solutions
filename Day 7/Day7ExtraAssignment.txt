@@ -1,0 +1,14 @@
+For those of you who have an extra assignment:
+Choose which one is the subclass and which is the superclass.
+(Think: which one is a member of which?)
+
+1. 9 and Number
+2. Vehicle and Truck
+3. Video Game and Minecraft
+4. Programming Language and Python
+5. Classmate and Person
+6. Meme and Amogus
+7. Cookies and Cream Ice Cream and Dessert
+8. Wendy's and Restaurant
+9. Fruit and Strawberry
+10. Salad and Caesar
